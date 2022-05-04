@@ -12,21 +12,21 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">I'm [Ronit !](https://github.com/ronitblenz) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">I'm [Andyy !](https://github.com/Andyy-18) 
 
-<a href="https://www.linkedin.com/in/ronitbanerjee/">
+<a href="https://www.linkedin.com/in/anindabanerjee/">
   <img align="left" width="24px" src="ht tps://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/ronitblenz">
+<a href="https://twitter.com/Andyy-18">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:ronitbanerjee03@gmail.com">
+<a href="mailto:anindabanerjee03@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://ronitblenz.github.io/ronitblenz-portfolio/">
+<a href="https://Andyy-18.github.io/Andyy-18-portfolio/">
   <img align="left" width="26px" src="https://img.icons8.com/ios/50/000000/domain.png"/>
 </a>
-<a href="https://www.instagram.com/ronitblenz/">
+<a href="https://www.instagram.com/Andyy-18/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Andyy-18.Andyy-18)
 
-- 🌱 I’m currently learning Data Structures & Algorithms and DevOps Practices
+- 🌱 I’m currently learning Data Structures & Algorithms and Web Developement Practices
 - 📫 My Portfolio Website : **https://github.com/Andyy-18/Andyy-18**
 
 - ⚡ Fun fact :- Football and Photography are the reasons to live.
@@ -59,22 +59,22 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Ronit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronitblenz&theme=tokyonight)](https://github.com/ronitblenz?tab=repositories)
+[![Ronit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Andyy-18&theme=tokyonight)](https://github.com/Andyy-18?tab=repositories)
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ronitblenz&show_icons=true&locale=en&layout=compact"
-    alt="ronitblenz" /></p>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Andyy-18&show_icons=true&locale=en&layout=compact"
+    alt="Andyy-18" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronitblenz&show_icons=true&locale=en"
-    alt="ronitblenz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andyy-18&show_icons=true&locale=en"
+    alt="Andyy-18" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronitblenz&" alt="ronitblenz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Andyy-18&" alt="Andyy-18" /></p>
 
 <br>
