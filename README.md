@@ -10,7 +10,7 @@
 Andyy-18/Andyy-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->  
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Andyy-18&bg_color=171023&color=f0da8a&line=62c094&point=d3f37c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Andyy-18.Andyy-18)
 
 <h3>Statistical Data :-</h3>
